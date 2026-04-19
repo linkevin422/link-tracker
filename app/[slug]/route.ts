@@ -1,8 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import LINKS from "../links";
 
-const GOOGLE_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbwLMsiHHJZhCzkNWvfct743tgzsiC-iJWczatMBIzH1KkEzP-LI-8Jn8gOCSzoLJiZs/exec";
+const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL!;
 
 export async function GET(
   req: NextRequest,
