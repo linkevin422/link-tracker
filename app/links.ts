@@ -1,3 +1,9 @@
+// normal:
+// https://yourdomain.com/[slug]
+
+// tracked:
+// https://yourdomain.com/[slug]?utm_source=[source]&utm_campaign=[campaign]
+
 const LINKS: Record<string, string> = {
     // =====================
     // THINKNODE
@@ -7,8 +13,7 @@ const LINKS: Record<string, string> = {
   
     // YouTube
     "thinknode-yt": "https://shopee.tw/product/474186812/47608007722/",
-    "thinknode-yt1": "https://shopee.tw/product/474186812/47608007722/",
-    "thinknode-yt2": "https://shopee.tw/product/474186812/47608007722/",
+    "thinknode-yts": "https://shopee.tw/product/474186812/47608007722/",
   
     // Instagram
     "thinknode-ig-bio": "https://shopee.tw/product/474186812/47608007722/",
@@ -20,6 +25,8 @@ const LINKS: Record<string, string> = {
     // Website
     "thinknode-site": "https://shopee.tw/product/474186812/47608007722/",
   
+    // Threads
+    "thinknode-threads": "https://shopee.tw/product/474186812/47608007722/",
   
     // =====================
     // NEXT BOOK (example)
