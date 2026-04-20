@@ -28,6 +28,8 @@ const LINKS: Record<string, string> = {
   // Threads
   "thinknode-threads": "https://shopee.tw/product/474186812/47608007722/",
 
+  //TT
+  "thinknode-tt": "https://shopee.tw/product/474186812/47608007722/",
 
   // =====================
   // 音樂製作人 X FL Studio
@@ -52,6 +54,8 @@ const LINKS: Record<string, string> = {
   // Threads
   "flstudioproducer-threads": "https://shopee.tw/product/474186812/27465576743/",
 
+  //TT
+  "flstudioproducer-tt": "https://shopee.tw/product/474186812/27465576743/",
 
   // =====================
   // FL Studio 嘻哈製作人
@@ -76,6 +80,9 @@ const LINKS: Record<string, string> = {
   // Threads
   "flstudiohiphopproducer-threads": "https://shopee.tw/product/474186812/25292961904/",
 
+  //TT
+  "flstudiohiphopproducer-tt": "https://shopee.tw/product/474186812/25292961904/",
+
   // =====================
 // 歸剛 Vibe Coding
 // =====================
@@ -99,6 +106,9 @@ const LINKS: Record<string, string> = {
 // Threads
 "vibecoding-threads": "https://shopee.tw/product/474186812/41956667281/",
 
+//TT
+"vibecoding-tt": "https://shopee.tw/product/474186812/41956667281/",
+
   // =====================
   // 和弦故事
   // =====================
@@ -121,6 +131,9 @@ const LINKS: Record<string, string> = {
 
   // Threads
   "chordstory-threads": "https://shopee.tw/product/474186812/27520833699/",
+
+  //TT
+  "chordstory-tt": "https://shopee.tw/product/474186812/27520833699/",
 
 
   // =====================
@@ -146,6 +159,8 @@ const LINKS: Record<string, string> = {
   // Threads
   "asoundlife-threads": "https://shopee.tw/product/474186812/26319762261/",
 
+  //TT
+  "asoundlife-tt": "https://shopee.tw/product/474186812/26319762261/",
 
   // =====================
   // 耳朵之間
@@ -170,6 +185,8 @@ const LINKS: Record<string, string> = {
   // Threads
   "betweentheears-threads": "https://shopee.tw/product/474186812/41801886381/",
 
+  //TT
+  "betweentheears-tt": "https://shopee.tw/product/474186812/41801886381/",
 
   // =====================
   // 毛孩女戰神
@@ -191,6 +208,9 @@ const LINKS: Record<string, string> = {
   // Website
   "petfighter-site": "https://shopee.tw/%E6%AF%9B%E5%AD%A9%E5%A5%B3%E6%88%B0%E7%A5%9E-%E6%AF%9B%E5%AD%A9%E5%AE%88%E8%AD%B7%E8%80%85-2025-%E7%8B%97%E7%8B%97%E5%8E%BB%E7%BE%8E%E5%9C%8B-%E7%8B%97%E7%8B%97%E5%8E%BB%E9%9F%93%E5%9C%8B-%E5%8F%B0%E7%81%A3%E5%85%A5%E5%A2%83%E5%85%8D%E9%9A%94%E9%9B%A2%E6%B5%81%E7%A8%8B-%E7%8B%97%E7%8B%97%E8%B2%93%E8%B2%93%E6%98%AF%E5%AE%B6%E4%BA%BA-i.1433610645.24789887570",
 
+  //TT
+  "petfighter-tt": "https://shopee.tw/%E6%AF%9B%E5%AD%A9%E5%A5%B3%E6%88%B0%E7%A5%9E-%E6%AF%9B%E5%AD%A9%E5%AE%88%E8%AD%B7%E8%80%85-2025-%E7%8B%97%E7%8B%97%E5%8E%BB%E7%BE%8E%E5%9C%8B-%E7%8B%97%E7%8B%97%E5%8E%BB%E9%9F%93%E5%9C%8B-%E5%8F%B0%E7%81%A3%E5%85%A5%E5%A2%83%E5%85%8D%E9%9A%94%E9%9B%A2%E6%B5%81%E7%A8%8B-%E7%8B%97%E7%8B%97%E8%B2%93%E8%B2%93%E6%98%AF%E5%AE%B6%E4%BA%BA-i.1433610645.24789887570",
+  
   // Threads
   "petfighter-threads": "https://shopee.tw/%E6%AF%9B%E5%AD%A9%E5%A5%B3%E6%88%B0%E7%A5%9E-%E6%AF%9B%E5%AD%A9%E5%AE%88%E8%AD%B7%E8%80%85-2025-%E7%8B%97%E7%8B%97%E5%8E%BB%E7%BE%8E%E5%9C%8B-%E7%8B%97%E7%8B%97%E5%8E%BB%E9%9F%93%E5%9C%8B-%E5%8F%B0%E7%81%A3%E5%85%A5%E5%A2%83%E5%85%8D%E9%9A%94%E9%9B%A2%E6%B5%81%E7%A8%8B-%E7%8B%97%E7%8B%97%E8%B2%93%E8%B2%93%E6%98%AF%E5%AE%B6%E4%BA%BA-i.1433610645.24789887570",
 };  
