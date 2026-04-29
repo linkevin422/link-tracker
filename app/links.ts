@@ -31,6 +31,9 @@ const LINKS: Record<string, string> = {
   //TT
   "thinknode-tt": "https://peijulink.com/books/thinkinnodes",
 
+  // Podcast
+  "thinknode-pod": "https://peijulink.com/books/thinkinnodes",
+
   // =====================
   // 音樂製作人 X FL Studio
   // =====================
