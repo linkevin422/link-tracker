@@ -61,6 +61,20 @@ const LINKS: Record<string, string> = {
   "flstudioproducer-tt": "https://peijulink.com/books/flstudioproducer",
 
   // =====================
+  // 音樂製作人 X FL Studio：做音樂
+  // =====================
+
+  "flstudiomakemusic": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-yt": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-yts": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-ig-bio": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-ig-story": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-email": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-site": "https://shopee.tw/product/474186812/54321228458/",
+  "flstudiomakemusic-threads": "https://peijulink.com/books/flstudiomakemusic",
+  "flstudiomakemusic-tt": "https://peijulink.com/books/flstudiomakemusic",
+
+  // =====================
   // FL Studio 嘻哈製作人
   // =====================
 
